@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[199],{728:function(n,_,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/education/custom/Article_comp",function(){return u(9410)}])}},function(n){n.O(0,[410,774,888,179],(function(){return _=728,n(n.s=_);var _}));var _=n.O();_N_E=_}]);
